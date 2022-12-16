@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 <h1 align="center">
-  <img mt="200px" height="50px" src="https://im5.ezgif.com/tmp/ezgif-5-2354b74d4b.gif" />
+  <a href="https://imgur.com/HcOJNXG"><img height="50" src="https://i.imgur.com/HcOJNXG.gif" title="source: imgur.com" /></a>
   <i>
   Olá, sou o Lucas Duarte
   <i/>
