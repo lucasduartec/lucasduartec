@@ -1,16 +1,15 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<h1 align="center">
+  <img mt="200px" height="50px" src="https://im5.ezgif.com/tmp/ezgif-5-2354b74d4b.gif" />
+  <i>
+  Hi there, I'm Lucas Duarte
+  <i/>
+</h1>
 
-<!--
-**lucasduartec/lucasduartec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/lucasduartec">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasduartec&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasduartec&layout=compact&langs_count=7&theme=apprentice"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
