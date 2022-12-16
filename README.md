@@ -1,9 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
-<h1 align="center">
-  <a href="https://imgur.com/HcOJNXG"><img height="50" src="https://i.imgur.com/HcOJNXG.gif" title="source: imgur.com" /></a>
+<h1>
+<img align="left" src="https://media4.giphy.com/media/lWxG18p1SOlEc/200w.webp?cid=ecf05e47xg7rs9xboponzuxxahjkcc987ud0l49396f1r8fl&rid=200w.webp&ct=s" />
   <i>
   Olá, sou o Lucas Duarte
   <i/>
+    <p>
+    </p>
 </h1>
 
 </br>
@@ -15,9 +17,6 @@
 </p>
 
 </br>
-  
-
-
 
 <p align="center">
   <a href="https://github.com/lucasduartec">
