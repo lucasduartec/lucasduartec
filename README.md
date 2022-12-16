@@ -2,7 +2,7 @@
 <h1>
 <img align="left" src="https://media4.giphy.com/media/lWxG18p1SOlEc/200w.webp?cid=ecf05e47xg7rs9xboponzuxxahjkcc987ud0l49396f1r8fl&rid=200w.webp&ct=s" />
   <i>
-  Olá, sou o Lucas Duarte
+  Hey, I'm Lucas Duarte
   <i/>
     <p>
     </p>
