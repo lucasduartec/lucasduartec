@@ -4,8 +4,6 @@
   <i>
   Hey, I'm Lucas Duarte
   <i/>
-    <p>
-    </p>
 </h1>
 
 </br>
