@@ -9,7 +9,7 @@
 </br>
 
 <p>
-<li>Skilled on <strong>C</strong>, <strong>C++</strong>, <strong>JavaScript</strong>, <strong>HTML</strong> & <strong>CSS</strong></li>
+<li>Skilled in <strong>C</strong>, <strong>C++</strong>, <strong>JavaScript</strong>, <strong>HTML</strong> & <strong>CSS</strong></li>
 <li>Currently coding with <strong>React</strong>, <strong>Node.js</strong> and <strong>TypeScript</strong></li>
 <li>... and learning <strong>Java</strong> ☕</li>
 </p>
