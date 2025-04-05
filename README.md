@@ -13,18 +13,18 @@
 </p>
 
 </br>
-</br> 
+</br>
+</br>
 
 <p align="center">
   <a href="https://github.com/lucasduartec">
-  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=lucasduartec&theme=dark&show_icons=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasduartec&theme=dark&show_icons=true&count_private=true" />
   </a>
   <a href="https://github.com/lucasduartec">
-  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasduartec&theme=dark&layout=compact" />
+  <img height="165"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasduartec&theme=dark&layout=compact" />
   </a>
 </p>
 
-</br>
 </br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
