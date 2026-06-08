@@ -7,9 +7,7 @@
 </h1>
 
 <p>
-<li>Skilled in <strong>C</strong>, <strong>C++</strong>, <strong>TypeScript</strong>, <strong>React</strong>, <strong>Node.js</strong>, <strong>HTML</strong> & <strong>CSS</strong></li>
-<li>Currently coding with <strong>JavaScript</strong>
-<li>... and learning <strong>Java</strong> ☕</li>
+<li><strong>C</strong>, <strong>C++</strong>, <strong>Java</strong>, <strong>Javascript</strong></li>
 </p>
 
 </br>
